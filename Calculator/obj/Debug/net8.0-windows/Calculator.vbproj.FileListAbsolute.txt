@@ -1,0 +1,16 @@
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.vbproj.GenerateResource.cache
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.vb
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\CARLOS DEROY\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
