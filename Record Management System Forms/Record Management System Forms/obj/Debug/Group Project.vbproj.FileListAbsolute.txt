@@ -1,0 +1,12 @@
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\bin\Debug\Group Project.exe.config
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\bin\Debug\Group Project.exe
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\bin\Debug\Group Project.pdb
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\bin\Debug\Group Project.xml
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.vbproj.AssemblyReference.cache
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group_Project.Form1.resources
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group_Project.Resources.resources
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.vbproj.GenerateResource.cache
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.vbproj.CoreCompileInputs.cache
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.exe
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.xml
+C:\Users\CARLOS DEROY\source\repos\Group Project\Group Project\obj\Debug\Group Project.pdb
